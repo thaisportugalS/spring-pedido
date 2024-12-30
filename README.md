@@ -39,5 +39,5 @@ O projeto inclui um arquivo `docker-compose.yml` para facilitar a configuração
 Clone o repositório do projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/spring-pedido.git
+git clone https://github.com/thaisportugalS/spring-pedido
 cd spring-pedido
