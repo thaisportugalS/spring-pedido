@@ -25,7 +25,7 @@ Este é um sistema de pedidos simples implementado com **Spring Boot**, **Apache
 
 ## Docker Compose
 
-O projeto inclui um arquivo `docker-compose.yml` para facilitar a configuração dos serviços de **Zookeeper**, **Kafka**, **MongoDB** e **Schema Registry** (se necessário para seu caso).
+O projeto inclui um arquivo `docker-compose.yml` para facilitar a configuração dos serviços de **Zookeeper**, **Kafka**, **MongoDB** e **Schema**.
 
 ## Pré-requisitos
 
